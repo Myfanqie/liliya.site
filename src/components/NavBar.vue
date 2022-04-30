@@ -44,15 +44,15 @@ import { isDark } from '~/logics'
         <!-- <router-link to="/sponsors-list" title="Sponsors">
           <div i-ri-heart-line />
         </router-link> -->
-        <a href="https://twitter.com/antfu7" target="_blank" title="Twitter" class="lt-md:hidden">
+        <!-- <a href="https://twitter.com/antfu7" target="_blank" title="Twitter" class="lt-md:hidden">
           <feather-twitter />
-        </a>
-        <a href="https://github.com/antfu" target="_blank" title="GitHub" class="lt-md:hidden">
+        </a> -->
+        <a href="https://github.com/Myfanqie" target="_blank" title="GitHub" class="lt-md:hidden">
           <div i-uil-github-alt />
         </a>
-        <a href="/feed.xml" target="_blank" title="RSS" class="lt-md:hidden">
+        <!-- <a href="/feed.xml" target="_blank" title="RSS" class="lt-md:hidden">
           <div i-la-rss-square style="font-size:1.25rem; margin: 0 -0.125rem;" />
-        </a>
+        </a> -->
         <toggle-theme />
       </div>
     </nav>
