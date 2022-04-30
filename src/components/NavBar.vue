@@ -29,9 +29,9 @@ import { isDark } from '~/logics'
         <router-link to="/podcasts" class="lt-md:hidden">
           <div i-ri-mic-line />
         </router-link>
-        <router-link to="/streams" class="lt-md:hidden">
+        <!-- <router-link to="/streams" class="lt-md:hidden">
           <div i-ri-vidicon-line />
-        </router-link>
+        </router-link> -->
         <router-link to="/demos" title="Demos">
           <div i-ri-screenshot-line />
         </router-link>
@@ -41,9 +41,9 @@ import { isDark } from '~/logics'
         <router-link to="/notes" title="Notes">
           <div i-ri-sticky-note-line />
         </router-link>
-        <router-link to="/sponsors-list" title="Sponsors">
+        <!-- <router-link to="/sponsors-list" title="Sponsors">
           <div i-ri-heart-line />
-        </router-link>
+        </router-link> -->
         <a href="https://twitter.com/antfu7" target="_blank" title="Twitter" class="lt-md:hidden">
           <feather-twitter />
         </a>
