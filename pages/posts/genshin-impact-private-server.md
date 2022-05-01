@@ -68,7 +68,15 @@ if(oSession.host.EndsWith(".yuanshen.com") || oSession.host.EndsWith(".hoyoverse
 
 [![10318d0452cc8c4d7a4481b5d8e9bdbb.md.png](https://img.gejiba.com/images/10318d0452cc8c4d7a4481b5d8e9bdbb.md.png)](https://img.gejiba.com/image/M5Hby)
 
-### 参考链接
+[![d957e4dbc0eb6721bf24c17e369d39a7.md.png](https://img.gejiba.com/images/d957e4dbc0eb6721bf24c17e369d39a7.md.png)](https://img.gejiba.com/image/M5vZB)
+
+### 创建角色
+
+在控制台输入 `account create [角色名] [uid]`
+
+[![2651eba6258fa6cf0bc5f4b3789edccf.md.png](https://img.gejiba.com/images/2651eba6258fa6cf0bc5f4b3789edccf.md.png)](https://img.gejiba.com/image/M50Uv)
+
+## 参考链接
 
 官方的github的链接 [https://github.com/Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) <br>
 这个服务端提供的blog链接 [https://blog.tomys.top/2022-04/GenshinTJ/](https://blog.tomys.top/2022-04/GenshinTJ/)
