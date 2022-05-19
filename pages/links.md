@@ -9,15 +9,15 @@ projects:
       link: 'http://zyx.ee'
       desc: 'react方向的大佬'
       icon: 'i-mdi-clock-fast'
-    - name: 'reTypewriter'
-      link: 'https://twitter.com/antfu7/status/1505236765447458817'
-      desc: 'Smartly reply the steps of your changes at ease.'
-      icon: 'i-carbon-keyboard'
+    # - name: 'DreamLition'
+    #   link: 'https://lition.online/'
+    #   desc: '高中生'
+    #   icon: 'i-carbon-keyboard'
 
-  Windows:
-    - name: 'Live Draw'
-      link: 'https://github.com/antfu/live-draw'
-      desc: 'A tool allows you to draw on screen real-time'
+  Mirai群友:
+    - name: 'DreamLition'
+      link: 'https://lition.online/'
+      desc: '有想法的高中生。。。'
       icon: 'i-carbon-brush-freehand'
 
   Toys:
