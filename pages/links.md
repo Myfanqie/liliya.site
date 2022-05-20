@@ -20,10 +20,10 @@ projects:
       desc: '有想法的高中生。。。'
       icon: 'i-carbon-brush-freehand'
 
-  Toys:
-    - name: '1990 Script'
-      link: 'https://github.com/antfu/1990-script'
-      desc: 'Make your GitHub history back to 1990'
+  一些网盘资源:
+    - name: '柚子'
+      link: 'https://42yoru.xyz/42yoru'
+      desc: 'GalGame什么的'
       icon: 'i-carbon-time'
 ---
 
