@@ -3,7 +3,7 @@ title: Links -- firends
 display: Links
 subtitle: List of projects that I am proud of
 description: List of projects that I am proud of
-links:
+projects:
   React-前端:
     - name: '胡先生'
       link: 'http://zyx.ee'
